@@ -1492,6 +1492,7 @@ premium services
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
 ## File Sharing Tools
+- [SendBig](https://www.sendbig.com/) SendBig Free 30GB of secure file sharing website, with no limit on the quantity shared. 
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
